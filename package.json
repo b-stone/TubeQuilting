@@ -1,0 +1,23 @@
+{
+  "name": "polyname",
+  "version": "1.0.0",
+  "description": "A fun tool to convert your name to a polynomial.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-stone/PolyName.git"
+  },
+  "author": "Branden Stone <bstone@adelphi.edu> ()",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b-stone/PolyName/issues"
+  },
+  "homepage": "https://github.com/b-stone/PolyName#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
